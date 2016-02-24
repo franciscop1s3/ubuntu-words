@@ -1,0 +1,26 @@
+Whoami -----------permite ver el usuario
+Ps-------------------comando corriendo
+Man-----------------son los manuales(help)
+Pwd--- imprime el directorio del nombre del archivo
+Ls--------------lista de información acerca de los archivos
+Para búsqueda en el disco es por ejemplo cd Documentos/
+Cd~ o cd ----------es home
+Cd ..---------------- es para regresar al inicio de todo
+Clear--------------limpiar pantalla
+Bash--------------Memoria local
+Cat--------------- concatena el archivo (ves lo que tiene)
+-p-----------------no mete error al crear un directorio
+-rv--------------borra arboles primero mata a los hijos y va subiendo
+Mkdir------------para crear directorios que no existan
+Rmdir------------borrar directorio
+Mkdir –p--------crear carpeta entor de un directorio atrás de otro directorio padre
+Ctrl +c para salir de un proceso
+-r-----------------
+Rm---------------remueve cada archivo específico
+Rm –rv----------borrar carpetas recursivamente
+Touch-----------
+Cp----------------copiar a una carpeta
+mv-------------renombrar un archivo(mover)
+Rm –rf---------borrar a fuerza
+Sh--------------shell
+Bash------------bomb again shell

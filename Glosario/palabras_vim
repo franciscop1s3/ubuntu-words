@@ -1,0 +1,33 @@
+vim tutor
+h-izquierda
+j-abajo
+k-arriba
+l-derecha
+esc-----para salir de vim se presiona ese boton
+:q!---------- para eliminar todos los cambios
+:q -----------cerrar
+:qw-----------salir y guardar
+i-------------insertar texto
+x------------borrar texto
+d---------------es un mandato para borrar
+w----------desde el cursor hasta el final de la linea incluyendo espacios
+e----------desde el cursor hasta el final de la linea sin incluir espacios
+$-----------desde el cursor hasta el final de la linea
+dd----------borrar una linea entera
+
+dw----------para borrar hasta el final de la palabra
+d$---------para borrar hasta el final de la linea
+jw----------borrar palabras
+d$----------borrar al final de la línea
+w-----------saltando entre palabras
+u-----------deshacer,  U----linea a su estado
+dd----------borrar línea completa
+Ctrl +r volver a ejecutar los mandatos deshechos
+p----------pegar lo ultimo borrado del cursor
+r----------reemplazar un carácter sobre el cursor
+cw-------cambiar parte de una palabra
+w--------mover entre palabras
+0------inicio  $------final
+Ctrl+w para moverme a la segunda ventana
+:vs para crear una segunda ventana
+:w-------para guardar
